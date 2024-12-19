@@ -1,0 +1,7 @@
+.env
+*env*
+.idea/
+*env/*
+*pycache__*
+*db.sqlite3
+*upload_file
